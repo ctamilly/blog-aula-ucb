@@ -3,9 +3,21 @@
 }
 
 .rosa {
-    color:#FF5480;
+    background-color:#FF5480;
 }
 
 .verde {
     background-color: #66D9A3;
 }
+
+.small-text {
+    font-size: .8rem;
+}
+
+.border {
+    border: solid 0.5 gray;
+}
+
+
+
+
